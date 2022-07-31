@@ -1,7 +1,7 @@
 # NAGARRO-ASSIGNEMNT
 ---
-UTSAV AGRAWAL<BR>
-agarwal.utsav10@gmail.com<BR>
+UTSAV AGRAWAL <br>
+agarwal.utsav10@gmail.com <br>
 Jaypee Institute of Information Technology
 
 ---
