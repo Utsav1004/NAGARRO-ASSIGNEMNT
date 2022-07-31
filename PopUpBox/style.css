@@ -1,0 +1,14 @@
+#box{
+    background-color: rgb(118, 204, 142);
+    height:300px;
+    width: 700px;
+    visibility: hidden;
+}
+
+body{
+    background-color:rgb(125, 99, 210);
+}
+
+#box.show{
+    visibility: visible;
+}
